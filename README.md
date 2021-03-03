@@ -5,9 +5,9 @@ Trabalho desenvolvido durante a disciplina de BD1
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-Matheus de Souza Pereira de Oliveira:email_primeiro_componente@dominio.com<br>
+Matheus de Souza Pereira de Oliveira:matheussouzapoliveira@gmail.com<br>
 Rodrigo Raider de Oliveira:rodrigoraider@gmail.com<br>
-Thaís de Souza:email_segundo_componente@dominio.com<br>
+Thaís de Souza:thais.souza.ifes@gmail.com<br>
 ...<br>
 
 ### 2.INTRODUÇÃO E MOTIVAÇÃO<br>
