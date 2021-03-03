@@ -1,12 +1,12 @@
-# TRABALHO 01:  Título do Trabalho
+# TRABALHO 01:  Sistema Curso Certo
 Trabalho desenvolvido durante a disciplina de BD1
 
 # Sumário
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-	Matheus de Souza Pereira de Oliveira:email_primeiro_componente@dominio.com<br>
-Rodrigo Raider de Oliveira:email_segundo_componente@dominio.com<br>
+Matheus de Souza Pereira de Oliveira:email_primeiro_componente@dominio.com<br>
+Rodrigo Raider de Oliveira:rodrigoraider@gmail.com<br>
 Thaís de Souza:email_segundo_componente@dominio.com<br>
 ...<br>
 
