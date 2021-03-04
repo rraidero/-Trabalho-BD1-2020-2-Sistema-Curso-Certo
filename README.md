@@ -22,8 +22,8 @@ Neste ponto a codificação não e necessária, somente as ideias de telas devem
 
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
-![Alt text](https://github.com/rraidero/-Trabalho-BD1-2020-2-Sistema-Curso-Certo/tree/master/images/trabalhobd_mockup-6.png?raw=true "Title")
-![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/rraidero/-Trabalho-BD1-2020-2-Sistema-Curso-Certo/tree/master/arquivos/trabalhobd_mockup.pdf?raw=true "Empresa Curso Certo")
+![Alt text](https://github.com/rraidero/-Trabalho-BD1-2020-2-Sistema-Curso-Certo/blob/master/images/trabalhobd_mockup-6.png?raw=true "Title")
+![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/rraidero/-Trabalho-BD1-2020-2-Sistema-Curso-Certo/blob/master/arquivos/trabalhobd_mockup.pdf?raw=true "Empresa Curso Certo")
 #### 4.2 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
     b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
