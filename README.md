@@ -88,6 +88,7 @@ Ferramenta Utilizada: https://balsamiq.com/products/mockups/<br>
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
     OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
+https://colab.research.google.com/drive/1ZDZkGNnceAoMtfFMdM1sgrlk3EyZTxOP?usp=sharing
 
 ># Marco de Entrega 01: Do item 1 até o item 9.1<br>
 
