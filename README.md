@@ -106,9 +106,9 @@ Ferramenta Utilizada: https://balsamiq.com/products/mockups/<br>
 
 
 ### 6	MODELO LÓGICO<br>
-        a) inclusão do esquema lógico do banco de dados
-        b) verificação de correspondencia com o modelo conceitual 
-        (não serão aceitos modelos que não estejam em conformidade)
+
+![Alt text](https://github.com/rraidero/-Trabalho-BD1-2020-2-Sistema-Curso-Certo/blob/master/images/trabalho-bd-logico.png?raw=true "Modelo Lógico")
+
 
 ### 7	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
