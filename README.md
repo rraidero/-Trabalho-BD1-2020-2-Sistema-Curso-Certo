@@ -47,11 +47,13 @@ Ferramenta Utilizada: https://balsamiq.com/products/mockups/<br>
 
 #### 5.1 Validação do Modelo Conceitual
 
-    [Grupo01]: [Renato, Eduardo e Thiado]
+    [Grupo01]: [Renato e Eduardo]
     Eduardo: "Na minha opinião está muito bom, eu só não entendi porque vocês colocaram o like_deslike no relacionamento avalia, igual a nota e comentário".
     Renato: "A entidade comentário possui um atributo com o mesmo nome. Acho que o correto seria ter algo como "desc_comentario"".
     
-    [Grupo02]: [Nomes dos que participaram na avaliação]
+    [Grupo02]: [Rubens e Graziene]
+    Rubens: "Pelo o que entendi o site é como se fosse um Google dos cursos, uma boa premissa, já que isso facilita a escolha do usuário sabendo o que terá como curso. Na parte     de permissões, caso seja viável, seria interessante criar uma entidade específica para fazer o controle de conteúdo, os chamados “moderadores”, ou então criar categorias de     usuários e implementar níveis de acesso, o que poderia diminuir até mesmo a quantidade de dados armazenados no banco".
+    Graziene: "Os dois relacionamentos Avalia poderiam ser simplificados gerando apenas o campo like_deslik no relacionamento Avalia que possui comentário. A cardinalidade         poderia ser 0,n".
 
 #### 5.2 Descrição dos dados 
 
