@@ -91,17 +91,17 @@ Ferramenta Utilizada: https://balsamiq.com/products/mockups/<br>
     EMAIL: campo que armazena o email da plataforma 
     LINK_PLATAFORMA: campo que armazena o link referente a plataforma
 
-    **Interessa** (USUARIO <> AREA_CONHECIMENTO): Relacionamento que representa o interesse dos usuários a áreas de conhecimento cadastradas.
+    Interessa (USUARIO <> AREA_CONHECIMENTO): Relacionamento que representa o interesse dos usuários a áreas de conhecimento cadastradas.
     
-    **Visita** (USUARIO <> CURSO): Relacionamento onde é armazenada as visitas dos usuários a quaisquer cursos que ele acessar no sistema.
+    Visita (USUARIO <> CURSO): Relacionamento onde é armazenada as visitas dos usuários a quaisquer cursos que ele acessar no sistema.
         dt_visita(Visita): Campos que irá armazenar a data em que o ocorreu a visita ao curso.
     
-    **COMENTARIO**: Objeto que armazena as notas e os comentários realizados pelos usuários aos cursos.
+    COMENTARIO: Objeto que armazena as notas e os comentários realizados pelos usuários aos cursos.
         nota: avaliação numérica [0,10] (de 0.5 em 0.5) que representação a nota que o usuário deu para o curso (obrigatório).
         comentario: texto livre para o usuário escrever algo relacionado ao curso que ele atribuiu a nota, formatado em html.
         data: a data que o usuário atribuiu a nota e o comentário ao curso.
         
-    **cadastra**(USUARIO <> CURSO): Objeto para representar a funcionalidade de cadastro de cursos, que é realizada pelos usuários.
+    cadastra (USUARIO <> CURSO): Objeto para representar a funcionalidade de cadastro de cursos, que é realizada pelos usuários.
     
 
 
