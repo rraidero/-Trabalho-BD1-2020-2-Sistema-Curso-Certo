@@ -60,11 +60,33 @@ Ferramenta Utilizada: https://balsamiq.com/products/mockups/<br>
     [Grupo02]: [Nomes dos que participaram na avaliação]
 
 #### 5.2 Descrição dos dados 
-    [objeto]: [descrição do objeto]
-    
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+
+    AREA_CONHECIMENTO: tabela que armazena as informações relativas a área de conhecimento de um curso
+    CODIGO: campo que armazena o código para cada área de conhecimento
+    DESCRICAO: campo que armazena a descrição de cada área de conhecimento
+
+    CURSO_CONHECIMENTO: tabela que armazena as informações relativas ao curso e a área de conhecimento que o curso está
+    cod_area_conhecimento: campo que armazena o código referente a área de conhecimento para cada curso
+    cod_curso: campo que armazena o código referente ao curso para cada curso
+
+    CURSO: tabela que armazena as informações relativas ao curso
+    CODIGO: campo que armazena o código para cada curso
+    NOME: campo que armazena o nome para cada curso
+    CARGA_HORARIA: campo que armazena a carga horária para cada curso
+    DESCRICAO: campo que armazena a descrição de cada curso
+    VALOR: campo que armazena o valor de cada curso
+    LINK_CURSO: campo que armazena o link do curso
+    COD_PLATAFORMA: campo que armazena o código da plataforma na qual o curso pertence
+    DT_CRIACAO: campo que armazena a data de criação do curso
+    COD_USUARIO: campo que armazena o código do usuário que acessou o curso
+
+    PLATAFORMA:  tabela que armazena as informações relativas à plataforma onde o curso está disponibilizado 
+    CODIGO: campo que armazena o código referente à plataforma
+    NOME: campo que armazena o nome da plataforma
+    DT_CADASTRO: campo que armazena a data do cadastro na plataforma
+    EMAIL: campo que armazena o email da plataforma 
+    LINK_PLATAFORMA: campo que armazena o link referente a plataforma
+
 
 
 ### 6	MODELO LÓGICO<br>
