@@ -56,7 +56,11 @@ Ferramenta Utilizada: https://balsamiq.com/products/mockups/<br>
         
     
 #### 5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Nomes dos que participaram na avaliação]
+
+    [Grupo01]: [Renato, Eduardo e Thiado]
+    Eduardo: "Na minha opinião está muito bom, eu só não entendi porque vocês colocaram o like_deslike no relacionamento avalia, igual a nota e comentário".
+    Renato: "A entidade comentário possui um atributo com o mesmo nome. Acho que o correto seria ter algo como "desc_comentario"".
+    
     [Grupo02]: [Nomes dos que participaram na avaliação]
 
 #### 5.2 Descrição dos dados 
