@@ -103,16 +103,14 @@ Ferramenta Utilizada: https://balsamiq.com/products/mockups/<br>
 
 
 ### 7	MODELO FÍSICO<br>
-        a) inclusão das instruções de criacão das estruturas em SQL/DDL 
-        (criação de tabelas, alterações, etc..) 
+
+![Alt text](https://github.com/rraidero/-Trabalho-BD1-2020-2-Sistema-Curso-Certo/raw/master/arquivos/curso_certo_create_tables.sql "Modelo Físico")
+
         
        
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
-        a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
-        (Drop para exclusão de tabelas + create definição de para tabelas e estruturas de dados + insert para dados a serem inseridos)
-        b) Criar um novo banco de dados para testar a restauracao 
-        (em caso de falha na restauração o grupo não pontuará neste quesito)
-        c) formato .SQL
+
+![Alt text](https://github.com/rraidero/-Trabalho-BD1-2020-2-Sistema-Curso-Certo/raw/master/arquivos/curso_certo_create_tables_inserts.sql "Inserts")
 
 
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
