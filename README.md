@@ -99,18 +99,18 @@ Ferramenta Utilizada: https://balsamiq.com/products/mockups/<br>
 
 ### 6	MODELO LÓGICO<br>
 
-![Alt text](https://github.com/rraidero/-Trabalho-BD1-2020-2-Sistema-Curso-Certo/blob/master/images/trabalho-bd-logico.png?raw=true "Modelo Lógico")
+![Link - Modelo Lógico](https://github.com/rraidero/-Trabalho-BD1-2020-2-Sistema-Curso-Certo/blob/master/images/trabalho-bd-logico.png?raw=true "Modelo Lógico")
 
 
 ### 7	MODELO FÍSICO<br>
 
-![Alt text](https://github.com/rraidero/-Trabalho-BD1-2020-2-Sistema-Curso-Certo/raw/master/arquivos/curso_certo_create_tables.sql "Modelo Físico")
+![Link .sql - Modelo Físico](https://github.com/rraidero/-Trabalho-BD1-2020-2-Sistema-Curso-Certo/raw/master/arquivos/curso_certo_create_tables.sql "Modelo Físico")
 
         
        
 ### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
 
-![Alt text](https://github.com/rraidero/-Trabalho-BD1-2020-2-Sistema-Curso-Certo/raw/master/arquivos/curso_certo_create_tables_inserts.sql "Inserts")
+![Link .sql - Drops + Inserts](https://github.com/rraidero/-Trabalho-BD1-2020-2-Sistema-Curso-Certo/raw/master/arquivos/curso_certo_create_tables_inserts.sql "Inserts")
 
 
 ### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
